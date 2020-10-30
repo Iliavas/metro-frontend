@@ -1,0 +1,7 @@
+{
+  "name": "metro-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
