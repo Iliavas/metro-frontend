@@ -20,6 +20,7 @@ const Home: React.FC = observer(() => {
 
 	function stationOnClick(e: MouseEvent, station: IStation) {
 		wayStore.addStation(station);
+		console.log('fuck');
 	}
 
 	useEffect(() => {
